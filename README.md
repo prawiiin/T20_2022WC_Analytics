@@ -40,23 +40,7 @@ This project offers an in-depth analysis of the ICC Men's T20 World Cup 2022, fo
   - Power BI dashboards for dynamic exploration of tournament data.
   - Visual tools to compare player statistics and team strategies.
 
----
 
-## Visualizations
-
-### Player Performance Analysis
-
-![Player Performance Dashboard](./player_performance_dashboard.png)
-
-*An interactive dashboard showcasing individual player statistics.*
-
-### Team Strategy Evaluation
-
-![Team Strategy Dashboard](./team_strategy_dashboard.png)
-
-*Visual representation of team strategies and their effectiveness.*
-
----
 
 ## Getting Started
 
